@@ -92,7 +92,7 @@ Kernel Density Estimate (KDE) plot showing rating distributions split by `online
 #### Q15–Q17: Statistical Distribution & Probability
 * Calculated dataset skewness for price metrics.
 * **ECDF Plot:** Plotted the Empirical Cumulative Distribution Function to determine the percentage of restaurants costing under ₹500 per person.
-* Calculated $P(\text{cost\_per\_person} > 1000)$ using cumulative density metrics.
+* Calculated $P(\text{cost\ per\ person} > 1000)$ using cumulative density metrics.
 
 ---
 
