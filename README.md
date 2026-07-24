@@ -33,7 +33,7 @@ The notebook walks through:
   * **Type Conversion:** Cleaned string ratings (e.g., `"4.1/5"` $\rightarrow$ `4.1`) to `float`, and stripped commas from `approx_cost` to convert to `numeric`.
 * **Q3 Feature Engineering:**
 
-$$\text{cost\_per\_person} = \frac{\text{approx\_cost}}{2}$$
+$$\text{cost\ per\ person} = \frac{\text{approx\ cost}}{2}$$
 
   * Binned ratings into categorical buckets (`Low`, `Medium`, `High`).
 
